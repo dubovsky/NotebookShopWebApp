@@ -1,0 +1,230 @@
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\lb2mvc.DAL.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\lb2mvc.DAL.pdb
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.pdb
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\lb2mvc.DAL.dll.config
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Castle.Core.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.AutoMapper.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.Logging.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.Performance.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.StateManagement.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.Ninject.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Moq.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Factory.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Interception.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.MetadataRegistration.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.Moq.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.SelfHost.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Omu.ValueInjecter.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.AutoMapper.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.Logging.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.StateManagement.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.Ninject.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Moq.pdb
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Moq.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Factory.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Interception.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.Moq.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.SelfHost.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Omu.ValueInjecter.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Helpers.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Razor.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Helpers.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Razor.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\documents\visual studio 2017\Projects\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\lb2mvc.DAL.dll.config
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\lb2mvc.DAL.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\lb2mvc.DAL.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Castle.Core.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.AutoMapper.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.Logging.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.Performance.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.StateManagement.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.Ninject.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Moq.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Factory.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Interception.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.MetadataRegistration.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.Moq.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.SelfHost.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Omu.ValueInjecter.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Helpers.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Razor.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.AutoMapper.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.Logging.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.StateManagement.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.Ninject.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Moq.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Moq.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Factory.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Interception.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.Moq.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.SelfHost.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Omu.ValueInjecter.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Helpers.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Razor.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.dll
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.pdb
+C:\Users\User\Documents\Visual Studio 2017\Projects\MVC5\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.csprojResolveAssemblyReference.cache
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\lb2mvc.DAL.dll.config
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\lb2mvc.DAL.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\lb2mvc.DAL.pdb
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Castle.Core.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.AutoMapper.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.Logging.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.Performance.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.StateManagement.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.Ninject.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Moq.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Newtonsoft.Json.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Factory.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Interception.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.MetadataRegistration.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.Moq.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.SelfHost.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Omu.ValueInjecter.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Helpers.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Mvc.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Razor.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.AutoMapper.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.Logging.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.StateManagement.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.Ninject.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Moq.pdb
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Moq.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Newtonsoft.Json.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Factory.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Interception.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.Moq.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.SelfHost.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Omu.ValueInjecter.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Helpers.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Mvc.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Razor.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.csprojResolveAssemblyReference.cache
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.pdb
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\lb2mvc.DAL.dll.config
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\lb2mvc.DAL.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\lb2mvc.DAL.pdb
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Castle.Core.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.AutoMapper.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.Logging.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.Performance.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.StateManagement.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.Ninject.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Moq.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Factory.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Interception.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.MetadataRegistration.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.Moq.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.SelfHost.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Omu.ValueInjecter.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Helpers.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Mvc.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Razor.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.AutoMapper.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.Logging.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\cdmdotnet.StateManagement.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Cqrs.Ninject.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Moq.pdb
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Moq.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Factory.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Extensions.Interception.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.MockingKernel.Moq.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Ninject.Web.Common.SelfHost.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\Omu.ValueInjecter.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Helpers.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Mvc.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.Razor.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.csprojResolveAssemblyReference.cache
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.csproj.CoreCompileInputs.cache
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.csproj.CopyComplete
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc.DAL\obj\Debug\lb2mvc.DAL.pdb

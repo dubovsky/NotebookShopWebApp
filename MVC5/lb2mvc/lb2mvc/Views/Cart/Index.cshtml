@@ -1,0 +1,58 @@
+﻿@model lb2mvc.Models.Cart
+
+@{
+    ViewBag.Title = "Корзина";
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <h2>Товары в корзине</h2>
+        </div>
+        <div class="col-md-offset-4 col-md-4">
+            <h2>@ViewBag.Message</h2>
+        </div>
+    </div>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Наименование</th>
+            <th>Количество</th>
+            <th>Цена</th>
+            <th>На сумму</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.GetItems())
+        {
+            <tr>
+                <td>@item.Notebk.Name</td>
+                <td>@item.Quantity</td>
+                <td>$@item.Notebk.Price</td>
+                <td>$@(item.Notebk.Price * item.Quantity)</td>
+                <td>@Html.ActionLink("Удалить", "Delete", new { note = item.Notebk.NotebookId , requestUrl=Request.Path})</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="container">
+    <div class="row">
+        <div class="col-md-3">
+            <a href="@Url.Action("List","Notebook")" class="btn btn-primary">Продолжить покупки</a>
+        </div>
+        <div class="col-md-offset-3 col-md-3">
+            <b>Общая сумма:</b> @Model.GetTotal()
+        </div>
+    </div>
+</div>
+<br />
+
+
+
+
+
+
+

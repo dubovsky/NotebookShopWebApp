@@ -1,0 +1,8 @@
+version: '2.1'
+
+services:
+  lb2mvc:
+    image: lb2mvc
+    build:
+      context: .\lb2mvc
+      dockerfile: Dockerfile

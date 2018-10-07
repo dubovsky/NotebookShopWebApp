@@ -1,0 +1,341 @@
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\ApplicationInsights.config
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csc.exe
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csc.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csc.rsp
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csi.exe
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csi.rsp
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.AppContext.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\vbc.exe
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\vbc.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\vbc.rsp
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\VBCSCompiler.exe
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.dll.config
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Antlr3.Runtime.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\EntityFramework.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\EntityFramework.SqlServer.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.DAL.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.Web.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.ApplicationInsights.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Newtonsoft.Json.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.OwinHost.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.WebHost.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Mvc.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Owin.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Helpers.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Mvc.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Optimization.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Razor.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\WebGrease.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.DAL.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.DAL.dll.config
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.OwinHost.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.WebHost.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Mvc.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Helpers.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Mvc.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Optimization.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Razor.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Antlr3.Runtime.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Newtonsoft.Json.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\EntityFramework.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\EntityFramework.SqlServer.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.ApplicationInsights.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.Web.xml
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.dll
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.pdb
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.Migrations.InitialCreate.resources
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.Migrations.initial.resources
+C:\Users\User\documents\visual studio 2017\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.Migrations.Nick.resources
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\ApplicationInsights.config
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csc.exe
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csc.exe.config
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csc.rsp
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csi.exe
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csi.rsp
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.AppContext.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.Collections.Immutable.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.IO.FileSystem.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.Reflection.Metadata.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\vbc.exe
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\vbc.exe.config
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\vbc.rsp
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\VBCSCompiler.exe
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\VBCSCompiler.exe.config
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.dll.config
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.pdb
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Antlr3.Runtime.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\EntityFramework.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\EntityFramework.SqlServer.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.DAL.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.DependencyCollector.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.Web.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.WindowsServer.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.ApplicationInsights.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Google.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Web.Infrastructure.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Newtonsoft.Json.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.OwinHost.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.WebHost.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Mvc.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Owin.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Helpers.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Mvc.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Optimization.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Razor.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.Deployment.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.Razor.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\WebGrease.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.DAL.pdb
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.DAL.dll.config
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.OwinHost.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.WebHost.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Mvc.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Helpers.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Mvc.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Optimization.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Razor.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.Deployment.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.Razor.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Antlr3.Runtime.pdb
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Newtonsoft.Json.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\EntityFramework.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\EntityFramework.SqlServer.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Google.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.ApplicationInsights.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.DependencyCollector.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.WindowsServer.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.Web.xml
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.csprojResolveAssemblyReference.cache
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.Migrations.InitialCreate.resources
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.Migrations.initial.resources
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.Migrations.Nick.resources
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.csproj.GenerateResource.Cache
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.dll
+F:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.pdb
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\ApplicationInsights.config
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csc.exe
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csc.exe.config
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csc.rsp
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csi.exe
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\csi.rsp
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.AppContext.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.Collections.Immutable.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.IO.FileSystem.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\System.Reflection.Metadata.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\vbc.exe
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\vbc.exe.config
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\vbc.rsp
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\VBCSCompiler.exe
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\roslyn\VBCSCompiler.exe.config
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.dll.config
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.pdb
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Antlr3.Runtime.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\EntityFramework.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\EntityFramework.SqlServer.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.DAL.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.DependencyCollector.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.Web.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.WindowsServer.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.ApplicationInsights.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Google.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Web.Infrastructure.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Newtonsoft.Json.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.OwinHost.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.WebHost.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Mvc.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Owin.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Helpers.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Mvc.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Optimization.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Razor.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.Deployment.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.Razor.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\WebGrease.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.DAL.pdb
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\lb2mvc.DAL.dll.config
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.OwinHost.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Common.WebHost.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Ninject.Web.Mvc.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Helpers.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Mvc.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Optimization.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.Razor.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.Deployment.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\System.Web.WebPages.Razor.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Antlr3.Runtime.pdb
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Newtonsoft.Json.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\EntityFramework.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\EntityFramework.SqlServer.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Google.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.ApplicationInsights.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.DependencyCollector.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.WindowsServer.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\bin\Microsoft.AI.Web.xml
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.csprojResolveAssemblyReference.cache
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.Migrations.InitialCreate.resources
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.Migrations.initial.resources
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.Migrations.Nick.resources
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.csproj.GenerateResource.Cache
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.dll
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.pdb
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.csproj.CoreCompileInputs.cache
+D:\Программирование\vs2017projects\Projects\MVC5\lb2mvc\lb2mvc\obj\Debug\lb2mvc.csproj.CopyComplete

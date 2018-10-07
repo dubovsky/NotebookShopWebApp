@@ -1,0 +1,21 @@
+﻿@model lb2mvc.Models.PageListViewModel<lb2mvc.DAL.Entities.Notebook>
+@using System.Text;
+
+@{
+    ViewBag.Title = "Каталог товаров";
+}
+ 
+ 
+ 
+
+<h2>Список доступных товаров</h2>
+
+<div id="List">     
+    @Html.Partial("ListPartial", Model);
+ </div>
+
+
+@section SidePanel
+{
+    @Html.Action("Side","Menu")
+}

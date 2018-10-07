@@ -1,0 +1,339 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Cqrs.Ninject</name>
+    </assembly>
+    <members>
+        <member name="T:Cqrs.Ninject.Configuration.InProcessCommandBusModule`1">
+            <summary>
+            A <see cref="T:Ninject.Modules.INinjectModule"/> that configures the <see cref="T:Cqrs.Bus.InProcessBus`1"/> as a <see cref="T:Cqrs.Commands.ICommandPublisher`1"/> and <see cref="T:Cqrs.Commands.ICommandReceiver"/>.
+            </summary>
+            <typeparam name="TAuthenticationToken">The <see cref="T:System.Type"/> of the authentication token.</typeparam>
+        </member>
+        <member name="T:Cqrs.Ninject.Configuration.ResolvableModule">
+            <summary>
+            A <see cref="T:Ninject.Modules.INinjectModule"/> that can resolve anything bound before being called.
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.ResolvableModule.Resolve``1">
+            <summary>
+            Resolves instances for the specified <typeparamref name="T"/>.
+            </summary>
+            <typeparam name="T">The <see cref="T:System.Type"/> to resolve.</typeparam>
+            <returns>Null if no resolution is made.</returns>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.ResolvableModule.Resolve(System.Type)">
+            <summary>
+            Resolves instances for the specified <paramref name="type"/>.
+            </summary>
+            <param name="type">The <see cref="T:System.Type"/> to resolve.</param>
+            <returns>Null if no resolution is made.</returns>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.ResolvableModule.IsRegistered``1">
+            <summary>
+            Indicates if the provided <typeparamref name="T"/> is already registered or not.
+            </summary>
+            <typeparam name="T">The <see cref="T:System.Type"/> to check.</typeparam>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.ResolvableModule.IsRegistered(System.Type)">
+            <summary>
+            Indicates if the provided <paramref name="type"/> is already registered or not.
+            </summary>
+            <param name="type">The <see cref="T:System.Type"/> to check.</param>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.InProcessCommandBusModule`1.Load">
+            <summary>
+            Loads the module into the kernel.
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.InProcessCommandBusModule`1.RegisterFactories">
+            <summary>
+            Register the all factories
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.InProcessCommandBusModule`1.RegisterServices">
+            <summary>
+            Register the all services
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.InProcessCommandBusModule`1.RegisterCqrsRequirements">
+            <summary>
+            Register the <see cref="T:Cqrs.Commands.ICommandPublisher`1"/>, <see cref="T:Cqrs.Commands.IPublishAndWaitCommandPublisher`1"/>, <see cref="T:Cqrs.Commands.ICommandReceiver`1"/> and <see cref="T:Cqrs.Bus.ICommandHandlerRegistrar"/>
+            Register (for backwards compatibility) <see cref="T:Cqrs.Commands.ICommandSender`1"/>
+            </summary>
+        </member>
+        <member name="T:Cqrs.Ninject.Configuration.InProcessEventBusModule`1">
+            <summary>
+            A <see cref="T:Ninject.Modules.INinjectModule"/> that configures the <see cref="T:Cqrs.Bus.InProcessBus`1"/> as a <see cref="T:Cqrs.Events.IEventPublisher`1"/> and <see cref="T:Cqrs.Events.IEventReceiver"/>.
+            </summary>
+            <typeparam name="TAuthenticationToken">The <see cref="T:System.Type"/> of the authentication token.</typeparam>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.InProcessEventBusModule`1.Load">
+            <summary>
+            Loads the module into the kernel.
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.InProcessEventBusModule`1.RegisterFactories">
+            <summary>
+            Register the all factories
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.InProcessEventBusModule`1.RegisterServices">
+            <summary>
+            Register the all services
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.InProcessEventBusModule`1.RegisterCqrsRequirements">
+            <summary>
+            Register the <see cref="T:Cqrs.Events.IEventPublisher`1"/>, <see cref="T:Cqrs.Events.IEventReceiver`1"/> and <see cref="T:Cqrs.Bus.IEventHandlerRegistrar"/>.
+            </summary>
+        </member>
+        <member name="T:Cqrs.Ninject.Configuration.InProcessEventStoreModule`1">
+            <summary>
+            A <see cref="T:Ninject.Modules.INinjectModule"/> that configures the <see cref="T:Cqrs.Events.InProcessEventStore`1"/> as a <see cref="T:Cqrs.Events.IEventStore`1"/>.
+            </summary>
+            <typeparam name="TAuthenticationToken">The <see cref="T:System.Type"/> of the authentication token.</typeparam>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.InProcessEventStoreModule`1.Load">
+            <summary>
+            Loads the module into the kernel.
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.InProcessEventStoreModule`1.RegisterFactories">
+            <summary>
+            Register the all factories
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.InProcessEventStoreModule`1.RegisterServices">
+            <summary>
+            Register the all services
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.InProcessEventStoreModule`1.RegisterEventStore">
+            <summary>
+            Register the <see cref="T:Cqrs.Events.InProcessEventStore`1"/>
+            </summary>
+        </member>
+        <member name="T:Cqrs.Ninject.Configuration.CqrsModule`2">
+            <summary>
+            The main <see cref="T:Ninject.Modules.INinjectModule"/> for use with the CQRS package that wires up many of the prerequisites for running CQRS.NET.
+            </summary>
+            <typeparam name="TAuthenticationToken">The <see cref="T:System.Type"/> of the authentication token.</typeparam>
+            <typeparam name="TAuthenticationTokenHelper">The <see cref="T:System.Type"/> of the authentication token helper.</typeparam>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.CqrsModule`2.#ctor(Cqrs.Configuration.IConfigurationManager)">
+            <summary>
+            Instantiate a new instance of the <see cref="T:Cqrs.Ninject.Configuration.CqrsModule`2"/> that uses the provided <paramref name="configurationManager"/>
+            to read the following configuration settings:
+            "Cqrs.SetupForWeb": If set to true the system will be configured for hosting in IIS or some other web-server that provides access to System.Web.HttpContext.Current.
+            "Cqrs.SetupForSqlLogging": If set to true the <see cref="T:cdmdotnet.Logging.SqlLogger"/> will be bootstrapped by default, otherwise the <see cref="T:cdmdotnet.Logging.ConsoleLogger"/> will be bootstrapped by default.
+            "Cqrs.RegisterDefaultConfigurationManager": If set true the <see cref="T:Cqrs.Configuration.ConfigurationManager"/> will be registered. If you want to use the Azure one leave this as false (the default) and register it yourself.
+            </summary>
+            <param name="configurationManager">The <see cref="T:Cqrs.Configuration.IConfigurationManager"/> to use, if one isn't provided then <see cref="T:Cqrs.Configuration.ConfigurationManager"/> is instantiate, used and then disposed.</param>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.CqrsModule`2.#ctor(System.Boolean,System.Boolean,System.Boolean)">
+            <summary>
+            Instantiate a new instance of the <see cref="T:Cqrs.Ninject.Configuration.CqrsModule`2"/>.
+            </summary>
+            <param name="setupForWeb">Set this to true if you will host this in IIS or some other web-server that provides access to System.Web.HttpContext.Current.</param>
+            <param name="setupForSqlLogging">Set this to true to use <see cref="T:cdmdotnet.Logging.SqlLogger"/> otherwise the <see cref="T:cdmdotnet.Logging.ConsoleLogger"/> will be bootstrapped by default.</param>
+            <param name="registerDefaultConfigurationManager">Set this to true to use <see cref="T:Cqrs.Configuration.ConfigurationManager"/>. If you want to use the Azure one leave this as false (the default) and register it yourself.</param>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.CqrsModule`2.Load">
+            <summary>
+            Loads the module into the kernel.
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.CqrsModule`2.RegisterFactories">
+            <summary>
+            Register the all factories
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.CqrsModule`2.RegisterLoggerComponents">
+            <summary>
+            Register the all components for the <see cref="T:cdmdotnet.Logging.ILogger"/>
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.CqrsModule`2.RegisterAutomapperComponents">
+            <summary>
+            Register the all <see cref="T:cdmdotnet.AutoMapper.IAutomapHelper"/>
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.CqrsModule`2.RegisterRepositories">
+            <summary>
+            Register the all repositories
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.CqrsModule`2.RegisterQueryBuilders">
+            <summary>
+            Register the all query builders
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.CqrsModule`2.RegisterServices">
+            <summary>
+            Register the all services
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.CqrsModule`2.RegisterCaching">
+            <summary>
+            Register the all caching stuffs
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.CqrsModule`2.RegisterCqrsRequirements">
+            <summary>
+            Register the all Cqrs requirements
+            </summary>
+        </member>
+        <member name="P:Cqrs.Ninject.Configuration.CqrsModule`2.SetupForWeb">
+            <summary>
+            Indicates that web based wire-up is required rather than console, WPF or winforms based wire-up.s
+            </summary>
+        </member>
+        <member name="P:Cqrs.Ninject.Configuration.CqrsModule`2.SetupForSqlLogging">
+            <summary>
+            Indicates that logging should be configured for SQL Server rather than console.
+            </summary>
+        </member>
+        <member name="P:Cqrs.Ninject.Configuration.CqrsModule`2.RegisterDefaultConfigurationManager">
+            <summary>
+            Indicates that the <see cref="T:Cqrs.Configuration.ConfigurationManager"/> should be registered automatically.
+            </summary>
+        </member>
+        <member name="T:Cqrs.Ninject.Configuration.MemoryCacheEventStoreModule`1">
+            <summary>
+            The <see cref="T:Ninject.Modules.INinjectModule"/> for use with the Cqrs package.
+            </summary>
+            <typeparam name="TAuthenticationToken">The <see cref="T:System.Type"/> of the authentication token.</typeparam>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.MemoryCacheEventStoreModule`1.Load">
+            <summary>
+            Loads the module into the kernel.
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.MemoryCacheEventStoreModule`1.RegisterEventSerialisationConfiguration">
+            <summary>
+            Register the all event serialisation configurations
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.MemoryCacheEventStoreModule`1.RegisterEventStore">
+            <summary>
+            Register the <see cref="T:Cqrs.Events.IEventStore`1"/>
+            </summary>
+        </member>
+        <member name="T:Cqrs.Ninject.Configuration.SimplifiedNinjectStartUp`1">
+            <summary>
+            A start-up class.
+            </summary>
+            <typeparam name="THostModule">The base <see cref="T:Ninject.Modules.INinjectModule"/> that is loaded first.</typeparam>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.SimplifiedNinjectStartUp`1.#ctor(Cqrs.Configuration.IConfigurationManager)">
+            <summary>
+            Instantiates a new instance of <see cref="T:Cqrs.Ninject.Configuration.SimplifiedNinjectStartUp`1"/>
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.SimplifiedNinjectStartUp`1.CreateKernel">
+            <summary>
+            Creates the kernel that will manage your application.
+            </summary>
+            <returns>The created kernel.</returns>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.SimplifiedNinjectStartUp`1.AddSupplementryModules">
+            <summary>
+            When overridden allows for the addition of any additional <see cref="T:Ninject.Modules.INinjectModule">modules</see> required.
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.SimplifiedNinjectStartUp`1.CreateNinjectKernel">
+            <summary>
+            Create a new <see cref="T:Ninject.StandardKernel"/>
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.SimplifiedNinjectStartUp`1.StartResolver(Ninject.IKernel)">
+            <summary>
+            Calls <see cref="M:Cqrs.Ninject.Configuration.NinjectDependencyResolver.Start(Ninject.IKernel,System.Boolean)"/>
+            </summary>
+        </member>
+        <member name="P:Cqrs.Ninject.Configuration.SimplifiedNinjectStartUp`1.ConfigurationManager">
+            <summary>
+            The <see cref="T:Cqrs.Configuration.IConfigurationManager"/> that will be used to resolve configuration settings in <see cref="M:Cqrs.Ninject.Configuration.SimplifiedNinjectStartUp`1.CreateKernel"/>.
+            It is not used elsewhere.
+            </summary>
+        </member>
+        <member name="T:Cqrs.Ninject.Configuration.SimplifiedSqlModule`1">
+            <summary>
+            The <see cref="T:Ninject.Modules.INinjectModule"/> to wireup <see cref="T:Cqrs.Events.IEvent`1"/> to <see cref="T:Cqrs.Events.SqlEventStore`1"/>.
+            </summary>
+            <typeparam name="TAuthenticationToken">The <see cref="T:System.Type"/> of the authentication token.</typeparam>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.SimplifiedSqlModule`1.Load">
+            <summary>
+            Loads the module into the kernel.
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.SimplifiedSqlModule`1.RegisterEventSerialisationConfiguration">
+            <summary>
+            Register the all event serialisation configurations
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.SimplifiedSqlModule`1.RegisterEventStore">
+            <summary>
+            Register the <see cref="T:Cqrs.Events.IEventStore`1"/>
+            </summary>
+        </member>
+        <member name="T:Cqrs.Ninject.Configuration.NinjectDependencyResolver">
+            <summary>
+            Provides an ability to resolve instances of objects using Ninject
+            </summary>
+        </member>
+        <member name="F:Cqrs.Ninject.Configuration.NinjectDependencyResolver.ModulesToLoad">
+            <summary>
+            A collection of <see cref="T:Ninject.Modules.INinjectModule"/> instances to load when we call <see cref="M:Cqrs.Ninject.Configuration.NinjectDependencyResolver.PrepareKernel(Ninject.IKernel)"/>
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.NinjectDependencyResolver.#ctor(Ninject.IKernel)">
+            <summary>
+            Instantiates a new instance of <see cref="T:Cqrs.Ninject.Configuration.NinjectDependencyResolver"/>
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.NinjectDependencyResolver.BindDependencyResolver">
+            <summary>
+            Checks if <see cref="T:Cqrs.Configuration.IDependencyResolver"/> has already been registered and if not, registers this instance to it.
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.NinjectDependencyResolver.Start(Ninject.IKernel,System.Boolean)">
+            <summary>
+            Starts the <see cref="T:Cqrs.Ninject.Configuration.NinjectDependencyResolver"/>
+            </summary>
+            <remarks>
+            this exists to the static constructor can be triggered.
+            </remarks>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.NinjectDependencyResolver.PrepareKernel(Ninject.IKernel)">
+            <summary>
+            Calls <see cref="M:Ninject.IKernel.Load(System.Collections.Generic.IEnumerable{Ninject.Modules.INinjectModule})"/> passing in <see cref="F:Cqrs.Ninject.Configuration.NinjectDependencyResolver.ModulesToLoad"/>
+            </summary>
+            <param name="kernel">The <see cref="T:Ninject.IKernel"/> the <see cref="F:Cqrs.Ninject.Configuration.NinjectDependencyResolver.ModulesToLoad"/> will be loaded into.</param>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.NinjectDependencyResolver.Resolve``1">
+            <summary>
+            Resolves a single instance for the specified <typeparamref name="T"/>.
+            by calling <see cref="M:Ninject.Syntax.IResolutionRoot.Resolve(Ninject.Activation.IRequest)"/>
+            </summary>
+        </member>
+        <member name="M:Cqrs.Ninject.Configuration.NinjectDependencyResolver.Resolve(System.Type)">
+            <summary>
+            Resolves a single instance for the specified <paramref name="type"/>.
+            by calling <see cref="M:Ninject.Syntax.IResolutionRoot.Resolve(Ninject.Activation.IRequest)"/>
+            </summary>
+        </member>
+        <member name="P:Cqrs.Ninject.Configuration.NinjectDependencyResolver.Kernel">
+            <summary>
+            The inner Ninject <see cref="T:Ninject.IKernel"/> used by this instance.
+            </summary>
+        </member>
+        <member name="P:Cqrs.Ninject.Configuration.NinjectDependencyResolver.DependencyResolverCreator">
+            <summary>
+            A user supplied <see cref="T:System.Func`1"/> that will be called during <see cref="M:Cqrs.Ninject.Configuration.NinjectDependencyResolver.Start(Ninject.IKernel,System.Boolean)"/> to create and populate <see cref="P:Cqrs.Configuration.DependencyResolver.Current"/>.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,46 @@
+﻿@using Microsoft.AspNet.Identity
+@using System.Security.Claims;
+@{ 
+    var identity = User.Identity as ClaimsIdentity;
+    var nick = identity.Claims.Where(c => c.Type == "nick").Select(c => c.Value).SingleOrDefault();
+}
+
+@if (Request.IsAuthenticated)
+{
+    
+    using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm", @class = "navbar-left" }))
+    {
+    @Html.AntiForgeryToken()
+
+
+        <span class="glyphicon glyphicon-user">
+        </span>@Html.ActionLink("Привет, " + nick + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" })
+
+                <a href="javascript:document.getElementById('logoutForm').submit()">
+                    <span class="glyphicon glyphicon-minus-sign">
+                    </span>Выйти
+                </a>
+            
+
+        
+    }
+}
+else
+{
+
+    <div class="nav navbar-left">
+        <a href=@Url.Action("Login","Account", new { returnUrl = Request.Path }) class="navbar-link">
+            <span class="glyphicon glyphicon-user">
+            </span>Войти
+        </a>
+        <a href=@Url.Action("Register","Account") class="navbar-link">
+            <span class="glyphicon glyphicon-plus-sign"></span>Зарегистрироваться
+        </a>
+    </div>
+
+
+    @*<ul class="nav navbar-nav navbar-right">
+        <li>@Html.ActionLink("Register", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Log in", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>*@
+}

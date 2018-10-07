@@ -1,0 +1,14 @@
+﻿
+
+
+@model IEnumerable<lb2mvc.Models.MenuItem>
+
+<h6>Карта сайта</h6>
+<ul>
+    @foreach (var item in Model)
+    {
+        <li>
+            @Html.ActionLink(item.Name,item.Action,item.Controller)
+        </li>
+    }
+</ul>

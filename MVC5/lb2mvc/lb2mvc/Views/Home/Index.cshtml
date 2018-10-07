@@ -1,0 +1,83 @@
+﻿@{ 
+    ViewBag.Title = "Главная страница";
+}
+
+<h2>
+    Список
+</h2>
+<ol type="A">
+    @for (int i=1;i<5;i++)
+    {
+        <li>Элемент @i  списка</li>
+    }
+</ol>
+<hr>
+<h2>
+    Форма
+</h2>
+<!--//making body with form-->
+@using (Html.BeginForm("Index", "Home", FormMethod.Get, new { @class = "form-horizontal" }))
+{
+    <div class="row">
+        <div class="col-md-8 col-md-offset-3">
+            @Html.DropDownList("Colors")
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <div class="checkbox">
+                <label>
+                    @Html.CheckBox("cBox1") Чек-бокс:1
+                </label>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <div class="checkbox">
+                <label>
+                    @Html.CheckBox("cBox2") Чек-бокс:2
+                </label>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <label class="radio-inline">
+                @Html.RadioButton("rButton",1,true) Радио-1
+            </label>
+            <label class="radio-inline">
+                @Html.RadioButton("rButton", 2, false) Радио-2
+            </label>
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-md-2 control-label" for="InputLogin">Логин:</label>
+        <div class="col-md-8">
+            @Html.TextBox("Логин", null, new { @class = "form-control", placeholder = "Введите логин", id = "InputLogin" })
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="InputPassword" class="col-md-2 control-label">Пароль:</label>
+        <div class="col-md-8">
+           @Html.Password("Пароль", null, new { @class = "form-control", placeholder = "Введите пароль", id = "InputPassword" })
+        </div>
+    </div>
+   
+    <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <button type="submit" class="btn btn-default">Отправить</button>
+        </div>
+    </div>
+}
+<br/>
+@section SidePanel
+    {
+    <div class="alert-success">
+        <h4><i>Пример работы с секциями на странице шаблона</i></h4>
+    </div>
+    }

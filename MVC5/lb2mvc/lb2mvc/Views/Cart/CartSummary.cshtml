@@ -1,0 +1,5 @@
+﻿@model lb2mvc.Models.Cart
+<div class="nav navbar-right">
+    <a href="@Url.Action("Index", "Cart", new { returnUrl = Request.Path })">
+     @Model.GetTotal()$  (@Model.GetItems().Sum(i=>i.Quantity))<span class="glyphicon glyphicon-shopping-cart"></span></a>
+</div>

@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+  @Styles.Render("~/bundles/styles")
+    @RenderSection("Styles", false)
+ 
+</head>
+<body>
+    <!--Заголовок страницы-->
+    <div class="header-strip">
+        <!--Панель аутентификации-->
+        <div class="container">
+           @Html.Action("UserInfo", "Menu")
+        </div><!--Панель аутентификации (конец)-->
+        <!-- панель навигации-->
+        <div class="container">
+            <div class="navbar navbar-inverse" role="navigation">
+                <div class="logo">
+                    <a class="navbar-brand" href="/Home/Index/">Labs-Demo Site</a>
+                </div>
+                @Html.Action("Main", "Menu",
+               new { c=Request.RequestContext.RouteData.Values["controller"]})
+            </div>
+        </div><!--панель навигации (конец)-->
+    </div><!--Заголовок страницы(конец)-->
+    <!--Содержимое сайта-->
+    <div class="main-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2>@ViewBag.MyText</h2>
+                </div>
+            </div>
+            <div class="row">
+                <!--Левая боковая панель-->
+                <div class="col-md-3">
+                    @RenderSection("SidePanel", required: false)
+                </div>
+                <!--/Левая боковая панель (конец)-->
+                <!--Основная панель-->
+                <div class="col-md-9">
+
+                    @RenderBody()
+                 </div>  
+                <!--/Основная панель (конец)-->
+            </div>
+        </div>
+    </div><!--Содержимое сайта (конец)-->
+    <!--Подвал страницы-->
+    <div class="footer-strip">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-3">
+                   @Html.Action("Map","Menu")
+                </div>
+                <div class="col-md-3 col-md-offset-6">
+                    <h6>Социальные сети</h6>
+                    <a href="http://vk.com" class="social-icon vk"></a>
+                    <a href="http://twitter.com" class="social-icon twitter"></a>
+                    <a href="http://facebook.com" class="social-icon facebook"></a>
+                </div>
+            </div>
+        </div><!--Подвал страницы (конец)-->
+    </div>
+   
+
+   
+    @Scripts.Render("~/bundles/jquery") 
+    @RenderSection("Scripts", false)
+    
+</body>
+</html>
